@@ -15,11 +15,11 @@ Building reliable cloud platforms through automation, Infrastructure as Code, CI
 
 ## 👨‍💻 About Me
 
-I'm a DevOps and Platform Engineer with **7+ years of experience** in cloud infrastructure, automation, CI/CD, and Infrastructure as Code.
+I'm a DevOps and Platform Engineer with **8+ years of experience** in cloud infrastructure, automation, CI/CD, and Infrastructure as Code.
 
 My focus is on making infrastructure **repeatable, secure, observable, and easier to operate**. I enjoy building reusable automation, troubleshooting deployment and infrastructure issues, and improving platform reliability.
 
-- ☁️ Building and managing infrastructure on **AWS**
+- ☁️ Designing, Building and managing infrastructure on **AWS** and **Azure**
 - 🏗️ Developing reusable infrastructure with **Terraform and Terragrunt**
 - 🔄 Automating build, validation, and deployment workflows
 - 🐳 Working with containers and Kubernetes-based platforms
